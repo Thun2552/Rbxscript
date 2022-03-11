@@ -1,0 +1,1 @@
+game.RunService:Set3dRenderingEnabled(true)
